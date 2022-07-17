@@ -1,5 +1,5 @@
 <div align ="center">
-    <img width="40%" src="./cmd 로고.png"/>
+    <img width="40%" src="cmdlogo.png"/>
 </div>
 
 ---
