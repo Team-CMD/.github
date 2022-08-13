@@ -10,7 +10,7 @@ CMD는 '프로젝트 진행 및 개발문화 형성 및 구축'에 중심을 두
 그 밖에 개인/팀 프로젝트, 개인 세미나, 컨퍼런스, 개발행사 참여, 개발 스터디, 선후배 멘토링, 친목/네트워킹 활동등 다양한 분야의 활동을 진행함으로써 융합적 인재를 양성하고자 활동범위를 넓혀가고 있습니다. 
 
 ## 😤 *What does CMD do?*
-- **2021년도**
+- **CMD 0기**
     - [C언어를 위한 오목만들기! - A팀](https://github.com/Team-CMD/StarterSeason_Winter_Team_A)
     - [C언어를 위한 오목만들기! - B팀](https://github.com/Team-CMD/StarterSeason_Winter_Team_B)
     - [SPTJ - 보드게임 팀](https://github.com/Team-CMD/SPTJ_BoardGame)
@@ -23,7 +23,7 @@ CMD는 '프로젝트 진행 및 개발문화 형성 및 구축'에 중심을 두
     - [2021 C Study](https://github.com/Team-CMD/2021-CMD-C_Language)
     - [2021 JAVA Study](https://github.com/Team-CMD/JAVA_STUDY)
     - [2021 테트리스 프로젝트](https://github.com/Team-CMD/2021_TETRIS)
-- **2022년도**
+- **CMD 1기**
     - [2022 Python Study](https://github.com/Team-CMD/2022-python-study) 
     - [장기 프로젝트_팀 11조](https://github.com/Team-CMD/Project-team11)
     - [Algorithm Junior](https://github.com/Team-CMD/algorithm-junior)
