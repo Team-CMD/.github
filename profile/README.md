@@ -1,5 +1,5 @@
 <div align ="center">
-    <h1>💻 CMD : Code Master Draft 2기</h1>
+    <h1>💻 CMD : Code Master Draft</h1>
 </div>
 
 ## 😯 *Let me introduce you to CMD.*
@@ -19,14 +19,18 @@ CMD는 '프로젝트 진행 및 개발문화 형성 및 구축'에 중심을 두
     - [데일리 알고리즘 2팀](https://github.com/Team-CMD/Daily_Algorithm-Study2)
     - [2021 Python Study](https://github.com/Team-CMD/2021-CMD-Python_Language)
     - [2021 Web Study](https://github.com/Team-CMD/Web_Study)
-    - [Only One_GUI Holdom game Project](https://github.com/Team-CMD/Only-One)
+    - [Only One_GUI Holdom game Project](https://github.com/Team-CMD/Only-One)  
+    
+- **CMD 1기**
     - [2021 C Study](https://github.com/Team-CMD/2021-CMD-C_Language)
     - [2021 JAVA Study](https://github.com/Team-CMD/JAVA_STUDY)
     - [2021 테트리스 프로젝트](https://github.com/Team-CMD/2021_TETRIS)
-- **CMD 1기**
     - [2022 Python Study](https://github.com/Team-CMD/2022-python-study) 
     - [장기 프로젝트_팀 11조](https://github.com/Team-CMD/Project-team11)
-    - [Algorithm Junior](https://github.com/Team-CMD/algorithm-junior)
+    - [Algorithm Junior](https://github.com/Team-CMD/algorithm-junior)  
+    
+- **CMD 2기**  
+    - Comming Soon...!
 
 ## 😆 *How do I get into CMD?*
 신입부원 선출기간이되면 자체공고가 올라갈 예정입니다!  
