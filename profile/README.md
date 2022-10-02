@@ -31,3 +31,4 @@ CMD는 '프로젝트 진행 및 개발문화 형성 및 구축'에 중심을 두
     
 - **CMD 2기**  
     - 2022-2 학기 프로젝트 진행
+        - [2022-2 상금타면 팀장 몫 : 쇼핑몰 프로젝트](https://github.com/Team-CMD/Leader-have-money)
