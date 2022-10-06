@@ -33,3 +33,5 @@ CMD는 '프로젝트 진행 및 개발문화 형성 및 구축'에 중심을 두
     - 2022-2 학기 프로젝트 진행
         - [2022-2 상금타면 팀장 몫 : 쇼핑몰 프로젝트](https://github.com/Team-CMD/Leader-have-money)
         - [2022-2 김성민의 포트폴리오 : MVC모델을 활용한 테크블로그](https://github.com/Team-CMD/Sungmins-Portfolio)  
+        - [2022-2 Team 라이트 : YOLOv5를 활용한 사람 검출 및 기록 프로젝트](https://github.com/Team-CMD/Team-Light)  
+        
