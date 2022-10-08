@@ -36,4 +36,5 @@ CMD는 '프로젝트 진행 및 개발문화 형성 및 구축'에 중심을 두
         - [2022-2 Team 라이트 : YOLOv5를 활용한 사람 검출 및 기록 프로젝트](https://github.com/Team-CMD/Team-Light)  
         - [2022-2 Team Libra : 대학교 주변 맛집 사이트](https://github.com/Team-CMD/Team-Libra)
         - [2022-2 이슬만 마시조 : 나만의 일정 관리하는 앱](https://github.com/Team-CMD/Only-drink-the-dew)
+        - [2022-2 front&back& : 다이어트 레시피 공유 서비스](https://github.com/Team-CMD/Living-Food)
         
