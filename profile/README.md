@@ -39,4 +39,4 @@ CMD는 '프로젝트 진행 및 개발문화 형성 및 구축'에 중심을 두
         - [2022-2 front&back& : 다이어트 레시피 공유 서비스](https://github.com/Team-CMD/Living-Food)
         - [2022-2 손앤박 : 플레이 가능한 콘솔게임](https://github.com/Team-CMD/Let-s-Packman)
         - [2022-2 Fly me to do : 시간표 공유 서비스](https://github.com/Team-CMD/Fly-me-to-do)
-        
+        - [2022-2 Data Visualization : 데이터 시각화 서비스](https://github.com/Team-CMD/Data_Visualization)
