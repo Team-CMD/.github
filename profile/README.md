@@ -1,5 +1,5 @@
 <div align ="center">
-    <h1>💻 CMD : Code Master Draft</h1>
+    <h1>💻 CMD : Code Master Draft 💻</h1>
 </div>
 
 ## 😯 *Let me introduce you to CMD.*
