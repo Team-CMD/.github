@@ -43,3 +43,4 @@ CMD는 '프로젝트 진행 및 개발문화 형성 및 구축'에 중심을 두
         - [2022-2 코알못 4인방 : 실시간 풋볼 매칭 서비스 '바로차'](https://github.com/Team-CMD/NowKick)
         - [2022-2 JJ : 만능 홈화면 만들기](https://github.com/Team-CMD/Awesome-Home)
         - [2022-2 동물유치원 : 미니게임 2종](https://github.com/Team-CMD/Zoo-Kindergarden)
+        - [2022-2 비기너드 : 기업 보안 인프라 구축 및 강화](https://github.com/Team-CMD/strong-secure-infra)
