@@ -45,3 +45,4 @@ CMD는 '프로젝트 진행 및 개발문화 형성 및 구축'에 중심을 두
         - [2022-2 동물유치원 : 미니게임 2종](https://github.com/Team-CMD/Zoo-Kindergarden)
         - [2022-2 비기너드 : 기업 보안 인프라 구축 및 강화](https://github.com/Team-CMD/strong-secure-infra)
         - [2022-2 개발문맹탈출조 : 쉽고 재미있는 우리만의 게임 '생로병사'](https://github.com/Team-CMD/Awesome_longlife)
+    - 11.25. 중간발표회
