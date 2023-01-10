@@ -47,4 +47,4 @@ CMD는 '프로젝트 진행 및 개발문화 형성 및 구축'에 중심을 두
         - [2022-2 개발문맹탈출조 : 쉽고 재미있는 우리만의 게임 '생로병사'](https://github.com/Team-CMD/Awesome_longlife)
         - [2022-2 Turtle Paint Board : turtle을 활용한 그림판 개발](https://github.com/Team-CMD/Turtle-paint-board)
         - 2022.11.25. 중간발표회 🔥🔥
-        - 2023.01.xx. 최종발표회 예정
+        - 2023.01.10. 최종발표회 💡💡
